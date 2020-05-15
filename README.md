@@ -27,4 +27,12 @@ npm run e2e
 npm test
 ```
 
+<<<<<<< HEAD
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+ 参考 网址：https://juejin.im/post/5b72d3d7518825613c02abd6
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+>>>>>>> 540dfdc42934ac0bde2175f0430361a325556da9
