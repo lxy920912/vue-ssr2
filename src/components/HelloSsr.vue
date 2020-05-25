@@ -3,6 +3,7 @@
     <h2>Hello World/SSR</h2>
     <h4>{{msg}}</h4>
     <button @click="showMsg">showMsg</button>
+    <h3>{{msg}}</h3>
   </div>
 </template>
 <script>
@@ -22,7 +23,6 @@ export default {
     }
   },
   async asyncData({ route, store}) {
-    console.log("asyncdata-------------");
     await store.commit("setMsg","hello Soter MSG");
   },
 }
